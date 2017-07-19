@@ -3,8 +3,11 @@
 
 See also at [TrinityDog](https://debiandog.github.io/doglinux/zz06-trinitydog.html)     
 
-**TrinityDog is a fork of "DebianDog"** (info and credits [Here](index.html)) with a basic [Trinity Desktop Environment](https://www.trinitydesktop.org/)       
-A Jessie test version was earlier shared already [Here](http://murga-linux.com/puppy/viewtopic.php?p=945453#945453)           
+**TrinityDog is a fork of "DebianDog"** (info and credits [Here](index.html)) with a basic [Trinity Desktop Environment](https://www.trinitydesktop.org/)   
+
+[Forum Thread](http://murga-linux.com/puppy/viewtopic.php?t=111075)  
+
+A Jessie test version was earlier shared already [Here](http://murga-linux.com/puppy/viewtopic.php?p=945453#945453)              
 
 Full access to Debian repositories by using apt-get (from terminal) or from Synaptic Package Manager (GUI)     
 
