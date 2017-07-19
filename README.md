@@ -3,7 +3,7 @@
 
 See also at [TrinityDog](https://debiandog.github.io/doglinux/zz06-trinitydog.html)     
 
-**TrinityDog is a fork of "DebianDog"** (info and credits [Here](index.html)) with a basic [Trinity Desktop Environment](https://www.trinitydesktop.org/)   
+**TrinityDog is a fork of "DebianDog"** (info and credits [Here](https://debiandog.github.io/doglinux/)) with a basic [Trinity Desktop Environment](https://www.trinitydesktop.org/)   
 
 [Forum Thread](http://murga-linux.com/puppy/viewtopic.php?t=111075)  
 
