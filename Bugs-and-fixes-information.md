@@ -1,2 +1,2 @@
-## TrinityDog Bugs and Fixes Information after 2017-07-18   
+### TrinityDog Bugs and Fixes Information after 2017-07-18   
 
