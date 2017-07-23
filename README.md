@@ -1,7 +1,9 @@
 
 ### TrinityDog Jessie & Stretch versions, 32-bit
 
-See also at [TrinityDog](https://debiandog.github.io/doglinux/zz06-trinitydog.html)     
+See also at [TrinityDog](https://debiandog.github.io/doglinux/zz06-trinitydog.html)      
+
+[See Here for Bugs and Fixes Information](https://github.com/DebianDog/trinitydog/blob/master/Bugs-and-fixes-information.md)   
 
 **TrinityDog is a fork of "DebianDog"** (info and credits [Here](https://debiandog.github.io/doglinux/)) with a basic [Trinity Desktop Environment](https://www.trinitydesktop.org/)   
 
